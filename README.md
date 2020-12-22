@@ -36,4 +36,6 @@ List of components used the project:
  - Microcontroler ESP32-DEVKITC-32UE ( for prototyping only) https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32UE/12091813
  - Microcontroler ESP32-WROOM-32U (4MB) https://www.digikey.com/en/products/detail/espressif-systems/ESP32-WROOM-32U-4MB/9381719
  - Attenna to increase range
+ - Another optional component for prototyping, proto board. Doc found at : https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/dc1384a-a.html#eb-documentation
+ 
 
