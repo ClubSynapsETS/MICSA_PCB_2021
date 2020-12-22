@@ -29,6 +29,11 @@ Microcontrolor:
 
 ## Components
 
-List of components used the project: 
+List of components used the project:
+
  - ADC with SPI communication integrated inside, datasheet is :
  - USB power bank power supply, direct alimentation by USB type C (5V) NOT OBLIGATORY
+ - Microcontroler ESP32-DEVKITC-32UE ( for prototyping only) https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32UE/12091813
+ - Microcontroler ESP32-WROOM-32U (4MB) https://www.digikey.com/en/products/detail/espressif-systems/ESP32-WROOM-32U-4MB/9381719
+ - Attenna to increase range
+
