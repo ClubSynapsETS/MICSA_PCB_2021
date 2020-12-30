@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name ESP32)(type Legacy)(uri "/home/jacques/Documents/Club_étudiant/Synapse_ÉTS/MICSA_PCB_2021/Project_specific_library/UNK_Espressif Systems_ESP32-WROOM-32D/eec.lib")(options "")(descr ""))
+  (lib (name ESP32)(type Legacy)(uri "${KIPRJMOD}/Project_specific_library/UNK_Espressif Systems_ESP32-WROOM-32D/eec.lib")(options "")(descr ""))
+  (lib (name LTC2452)(type Legacy)(uri ${KIPRJMOD}/Project_specific_library/ul_LTC2452IDDBTRMPBF/KiCAD/2020-12-30_01-20-23/2020-12-30_01-20-23.lib)(options "")(descr ""))
 )
