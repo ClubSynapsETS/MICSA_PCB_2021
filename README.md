@@ -4,7 +4,7 @@
 
 This PCB is designed for brain signal sampling and transfert to the club's database. It is also used in the EXO team project. Communication done by USB between computer and pcb while being programmed. The pcb is intented to wireless in it's usage.
 
-## Specifications 
+## Specifications
 
 Probe specifications :
 
@@ -35,12 +35,13 @@ List of components used the project:
  - USB power bank power supply, direct alimentation by USB type C (5V) NOT OBLIGATORY
  - Microcontroler ESP32-DEVKITC-32UE ( for prototyping only) https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32UE/12091813
  - Microcontroler ESP32-WROOM-32U (4MB) https://www.digikey.com/en/products/detail/espressif-systems/ESP32-WROOM-32U-4MB/9381719
- - Attenna to increase range
+ - Antenna to increase range
  - Another optional component for prototyping, proto board. Doc found at : https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/dc1384a-a.html#eb-documentation
 
 ## Ressources
 
  - Expressif documentation for ESP32 https://www.espressif.com/en/support/documents/technical-documents
  - training video for ESP32 https://www.youtube.com/watch?v=xPlN_Tk3VLQ
+ - Lien vers le Github organisationnel de Espressif : [Github organisation du fabricant](https://github.com/espressif).
 
 

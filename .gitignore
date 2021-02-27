@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Documentation
+/ESP8266&ESP32_WFA_Certification_and_Test_Guide__EN
