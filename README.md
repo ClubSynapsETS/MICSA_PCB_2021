@@ -43,5 +43,6 @@ List of components used the project:
  - Expressif documentation for ESP32 https://www.espressif.com/en/support/documents/technical-documents
  - training video for ESP32 https://www.youtube.com/watch?v=xPlN_Tk3VLQ
  - Lien vers le Github organisationnel de Espressif : [Github organisation du fabricant](https://github.com/espressif).
+ - Lien vers la documentation pour programmer le ESP32 : [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html).
 
 
