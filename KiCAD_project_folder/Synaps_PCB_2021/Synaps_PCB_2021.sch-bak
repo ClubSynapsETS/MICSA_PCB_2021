@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 5
+Sheet 1 7
 Title "Electrode PCB"
 Date "2020-12-29"
 Rev ""
@@ -20,13 +20,13 @@ F0 "Power Supply" 50
 F1 "Power_Supply.sch" 50
 $EndSheet
 $Sheet
-S 4950 1550 2050 2950
+S 5000 1500 2500 3000
 U 604B2E86
 F0 "Microcontroler" 50
 F1 "microcontroler.sch" 50
 $EndSheet
 $Sheet
-S 8950 1550 1050 2950
+S 9000 1500 1500 3000
 U 604B51E6
 F0 "Probes schematic" 50
 F1 "Probes.sch" 50
