@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name voltge_regulators-rescue)(type Legacy)(uri ${KIPRJMOD}/voltge_regulators-rescue.lib)(options "")(descr ""))
+  (lib (name CAN)(type Legacy)(uri ${KIPRJMOD}/CAN/CAN.lib)(options "")(descr "TRANSMETTEUR CAN"))
+)
