@@ -30,6 +30,9 @@ S 9000 1500 1500 3000
 U 604B51E6
 F0 "Probes schematic" 50
 F1 "Probes.sch" 50
+F2 "Probe_Select" I L 9000 1650 50 
+F3 "SDO" O L 9000 1900 50 
+F4 "SCK" I L 9000 2000 50 
 $EndSheet
 $Sheet
 S 2000 5900 3200 1250

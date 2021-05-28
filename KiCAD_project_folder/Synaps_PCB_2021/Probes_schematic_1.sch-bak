@@ -1237,4 +1237,28 @@ F 3 "" H 7500 4850 50  0001 C CNN
 	1    7500 4850
 	1    0    0    -1  
 $EndComp
+Text HLabel 6750 850  0    50   Input ~ 0
+Probe1_~CS~
+Text HLabel 6750 950  0    50   Output ~ 0
+Probe1_SDO
+Text HLabel 6750 1050 0    50   Input ~ 0
+Probe_SCK
+Text HLabel 6750 2800 0    50   Input ~ 0
+Probe2_~CS~
+Text HLabel 6750 2900 0    50   Output ~ 0
+Probe2_SDO
+Text HLabel 6750 3000 0    50   Input ~ 0
+Probe_SCK
+Text HLabel 6750 4600 0    50   Input ~ 0
+Probe3_~CS~
+Text HLabel 6750 4700 0    50   Output ~ 0
+Probe3_SDO
+Text HLabel 6750 4800 0    50   Input ~ 0
+Probe_SCK
+Text HLabel 1650 5700 0    50   Input ~ 0
+Probe4_~CS~
+Text HLabel 1650 5800 0    50   Output ~ 0
+Probe4_SDO
+Text HLabel 1650 5900 0    50   Input ~ 0
+Probe_SCK
 $EndSCHEMATC
